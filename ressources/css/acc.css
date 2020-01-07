@@ -1,0 +1,93 @@
+body
+{
+
+ background-image: url("../../img/accueil.jpg") ;
+ background-color: #CDC8C8;
+ background-size: cover;
+	min-height: 650px;
+	position: relative;
+
+
+}
+.bg-color{
+	background-color: RGBA(13, 70, 83, 0.78);
+	min-height: 650px;
+}
+.white{
+  color: #fff;
+  margin-bottom: 30px;
+  margin-top: 130px;
+  font-size: 70px;
+  text-decoration: overline;
+
+}
+h2{
+  color: #fff;
+  font-size: 30px;
+  margin-bottom: 5px;
+  font-family: Arial, Helvetica, sans-serif
+
+}
+p{
+  color: #fff;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.btn-appoint, .btn-appoint:hover, .btn-appoint:focus{
+	margin-top: 30px;
+	padding: 10px 20px;
+	font-size: 17px;
+	background-color: #4CAF50;
+	border-radius: 3px;
+	color: #fff;
+}
+
+
+
+
+
+.navbar {
+
+  width: 100%;
+  background-color: transparent;
+  overflow:auto;
+
+
+}
+
+
+.navbar a {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+
+.navbar a:hover {
+  background-color: #555;
+}
+
+
+.active  {
+  background-color: #4CAF50;
+
+}
+
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}

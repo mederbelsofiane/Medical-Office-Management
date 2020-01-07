@@ -1,0 +1,19 @@
+body{
+  background-image: url("../../img/form.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 30px;
+  margin-top: 100px;
+}
+.formulaire-form{
+
+    background-color: #f2f2f2;
+    border:2px solid white ;
+     /* box-shadow: 0px 4px 10px 4px #004666; */
+    border-radius: 5px;
+    align-self: center;
+}
+.form
+{
+  margin: 20px;
+}

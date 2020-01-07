@@ -1,0 +1,61 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #eee;
+}
+.update{
+  text-decoration: none;
+}
+/* navbar */
+.sidebar {
+  height: 100vh;
+  background: linear-gradient(rgba(50, 50, 50, .9), rgba(47, 152, 156, .7)), url(../../images/health-p.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 7px 25px #999;
+}
+
+.bottom-border {
+  border-bottom: 1px groove #eee;
+}
+
+.sidebar-link {
+  transition: all .4s;
+}
+
+.sidebar-link:hover {
+  background-color: #689bed;
+  border-radius: 5px;
+}
+
+
+
+.search-input {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  border-bottom: 2px solid #999;
+  transition: all .4s;
+}
+
+.search-input:focus {
+  background: transparent;
+  box-shadow: none;
+  border-bottom: 2px solid #dc3545;
+}
+
+.search-button {
+  border-radius: 50%;
+  padding: 10px 16px;
+  transition: all .4s;
+}
+
+.search-button:hover {
+  background-color: #eee;
+  transform: translateY(-1px);
+}
+
+.navbar-back{
+    background: linear-gradient(rgba(50, 50, 50, .9), rgba(47, 152, 156, .7));
+    opacity: 0.87  ;
+}
