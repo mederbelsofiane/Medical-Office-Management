@@ -33,6 +33,8 @@ diagnoses, as well as make appointments.
 
 4- Secretary panel (administrator), in this panel the secretary manages
 appointments, patients, doctors, files, diagnoses, emergencies.
+
+
 ![alt text](https://github.com/mederbelsofiane/Medical-Office-Management/blob/master/images/secretaire.png?raw=true)
 
 # -Crud on Patients :
