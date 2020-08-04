@@ -15,19 +15,24 @@ diagnoses, as well as make appointments.
 # -Patient Panel :
 ![alt text](https://github.com/mederbelsofiane/Medical-Office-Management/blob/master/images/patientp.png?raw=true)
 
-3- A panel for doctors in which they can create a new record for the diagnosed patient 
-if the need arises, as well as add diagnostics to an already existing records.
+
 
 # -(Doctor) Medecin Panel :
+
+3- A panel for doctors in which they can create a new record for the diagnosed patient 
+, as well as add diagnostics to an already existing records.
+
 ![alt text](https://github.com/mederbelsofiane/Medical-Office-Management/blob/master/images/medecin.png?raw=true)
 
 # -Add Diagnostique :
 ![alt text](https://github.com/mederbelsofiane/Medical-Office-Management/blob/master/images/diagno.png?raw=true)
 
-4- Secretary panel (administrator), in this panel the secretary manages
-appointments, patients, doctors, files, diagnoses, emergencies.
 
 # -SECRETARY Panel :
+
+
+4- Secretary panel (administrator), in this panel the secretary manages
+appointments, patients, doctors, files, diagnoses, emergencies.
 ![alt text](https://github.com/mederbelsofiane/Medical-Office-Management/blob/master/images/secretaire.png?raw=true)
 
 # -Crud on Patients :
